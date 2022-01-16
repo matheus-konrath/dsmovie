@@ -2,27 +2,25 @@ package com.devsuperior.dsmovie.dto;
 
 import com.devsuperior.dsmovie.entities.Movie;
 
-public class MovieDto {
-	
+public class MovieDTO {
 	private Long id;
 	private String title;
 	private Double score;
 	private Integer count;
 	private String image;
-	
-	public MovieDto() {
-		
+
+	public MovieDTO() {
 	}
 
-	public MovieDto(Long id, String title, Double score, Integer count, String image) {
+	public MovieDTO(Long id, String title, Double score, Integer count, String image) {
 		this.id = id;
 		this.title = title;
 		this.score = score;
 		this.count = count;
 		this.image = image;
 	}
-	
-	public MovieDto(Movie movie) {
+
+	public MovieDTO(Movie movie) {
 		this.id = movie.getId();
 		this.title = movie.getTitle();
 		this.score = movie.getScore();
@@ -70,6 +68,4 @@ public class MovieDto {
 		this.image = image;
 	}
 
-	
-	
 }
