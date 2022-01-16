@@ -1,11 +1,11 @@
 package com.devsuperior.dsmovie.dto;
 
-public class ScoreDTO {
+public class ScoreDto {
 	private Long movieId;
 	private String email;
 	private Double score;
 
-	public ScoreDTO() {
+	public ScoreDto() {
 	}
 
 	public Long getMovieId() {

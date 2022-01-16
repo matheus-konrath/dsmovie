@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import com.devsuperior.dsmovie.dto.MovieDTO;
-import com.devsuperior.dsmovie.dto.ScoreDTO;
+import com.devsuperior.dsmovie.dto.ScoreDto;
 import com.devsuperior.dsmovie.entities.Movie;
 import com.devsuperior.dsmovie.entities.Score;
 import com.devsuperior.dsmovie.entities.User;
@@ -25,7 +25,7 @@ public class ScoreService {
 	private ScoreRepository scoreRepository;
 
 	@Transactional
-	public MovieDTO saveScore(ScoreDTO scoreDTO) {
+	public MovieDTO saveScore(ScoreDto scoreDTO) {
 		User user = userRepository.findByEmail(scoreDTO.getEmail());
 		if (user == null) {
 			user = new User();
