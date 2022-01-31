@@ -10,3 +10,5 @@ Ds Movie é uma aplicação full stack web e construída na 6ª edição da **Se
 A aplicação consiste em uma pesquisa de avaliação de filmes realizadas na própria aplicação Web, esses dados são computados e é feita a média de estrelas que o filme contém até o momento.
 
 ## Layout Web
+![Movie1](https://github.com/matheus-konrath/dsmovie/blob/main/ASSETS/cat%C3%A1logo%20filmes.png)
+![Movie2](https://github.com/matheus-konrath/dsmovie/blob/main/ASSETS/Captura%20de%20Tela.png)
