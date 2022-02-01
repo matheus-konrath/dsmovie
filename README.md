@@ -14,4 +14,4 @@ A aplicação consiste em uma pesquisa de avaliação de filmes realizadas na pr
 ![Movie 2](https://github.com/matheus-konrath/dsmovie/blob/main/ASSETS/Captura%20de%20Tela.png)
 
 ## Modelo Conceitual
-![mapa]()
+![mapa](https://github.com/matheus-konrath/dsmovie/blob/main/ASSETS/ModeloConceitual.png)
