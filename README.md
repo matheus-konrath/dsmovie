@@ -26,7 +26,7 @@ A aplicação consiste em uma pesquisa de avaliação de filmes realizadas na pr
 ## Back end
 - Java
 - Spring Boot
-- Jpa/ Hibernate
+- Jpa / Hibernate
 - Maven
 
 ## Front end
@@ -36,3 +36,14 @@ A aplicação consiste em uma pesquisa de avaliação de filmes realizadas na pr
 - Bootstrap
 
 ## Deployment in production
+- Back end: Heroku
+- Front end: Netlify
+- Database: Postgresql
+
+# How run the project
+
+## Back end
+Requirement: Java 11
+
+# Clone repository
+
