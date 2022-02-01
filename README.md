@@ -5,8 +5,12 @@
 
 https://konrathdsmovie.netlify.app/
 
-Ds Movie is an aplication full stack web, build on 6ª edition of ** DevSuperior Week**, event organized by [DevSuperior](https://learn.devsuperior.com/).
+Ds Movie is an application full stack web, build on 6ª edition of ** DevSuperior Week**, event organized by [DevSuperior](https://learn.devsuperior.com/).
 
+### English
+The application consists of a movie evalutaion survey carried out in the Web application itself, these data are computed and the average of stars that the film contains so far is made.
+
+### Portuguese
 A aplicação consiste em uma pesquisa de avaliação de filmes realizadas na própria aplicação Web, esses dados são computados e é feita a média de estrelas que o filme contém até o momento.
 
 ## Layout Web
