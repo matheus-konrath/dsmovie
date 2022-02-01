@@ -45,5 +45,39 @@ A aplicação consiste em uma pesquisa de avaliação de filmes realizadas na pr
 ## Back end
 Requirement: Java 11
 
-# Clone repository
+```bash
+# clone repository
+git clone https://github.com/matheus-konrath/dsmovie.git
+
+# enter the folder on back end project
+cd backend
+
+# run the project
+./mvnw spring-boot:run
+```
+## Front end
+Requirement: npm / yarn
+
+```bash
+# clone repository
+git clone https://github.com/matheus-konrath/dsmovie.git
+
+# enter the folder on front end project
+cd frontend
+
+# install dependency
+yarn install
+
+# run the project
+yarn start
+```
+
+# Autor
+Matheus Konrath
+
+https://www.linkedin.com/in/matheus-konrath-48177b192/
+
+
+
+
 
