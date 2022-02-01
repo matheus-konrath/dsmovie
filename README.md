@@ -1,7 +1,7 @@
 # Ds Movie
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/matheus-konrath/dsmovie/blob/main/LICENSE)
 
-# Sobre o projeto
+# About the project
 
 https://konrathdsmovie.netlify.app/
 
@@ -11,7 +11,24 @@ A aplicação consiste em uma pesquisa de avaliação de filmes realizadas na pr
 
 ## Layout Web
 ![Movie 1](https://github.com/matheus-konrath/dsmovie/blob/main/ASSETS/cat%C3%A1logo%20filmes.png)
+
 ![Movie 2](https://github.com/matheus-konrath/dsmovie/blob/main/ASSETS/Captura%20de%20Tela.png)
 
-## Modelo Conceitual
+## Conceptual model
 ![mapa](https://github.com/matheus-konrath/dsmovie/blob/main/ASSETS/ModeloConceitual.png)
+
+# Technologies used
+
+## Back end
+- Java
+- Spring Boot
+- Jpa/ Hibernate
+- Maven
+
+## Front end
+- HTML / CSS / JS 
+- TypeScript
+- React Native
+- Bootstrap
+
+## Deployment in production
