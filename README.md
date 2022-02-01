@@ -21,6 +21,9 @@ A aplicação consiste em uma pesquisa de avaliação de filmes realizadas na pr
 ## Conceptual model
 ![mapa](https://github.com/matheus-konrath/dsmovie/blob/main/ASSETS/ModeloConceitual.png)
 
+## Model MVC
+![mvc](https://github.com/matheus-konrath/dsmovie/blob/main/ASSETS/modelo%20MVC.jpg)
+
 # Technologies used
 
 ## Back end
